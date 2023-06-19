@@ -1,0 +1,303 @@
+{
+    "configuration": {
+        "aiKey": "d5c37ff03fda420b951e55d55d92f73b"
+    },
+    "days": [
+        {
+            "id": "1",
+            "name": "Day 1",
+            "description": "Mobrix behind the scenes, experience sharing in collaborating with NWUs, future of our Mobile Development Community of Practice, photo contest and Get together dinner.",
+            "date": "29.06.2023",
+            "events": [
+                {
+                    "title": "Gathering",
+                    "description": "Meet together, tea, coffee",
+                    "icon": "coffee",
+                    "startTime": "2023-06-29T08:30:00+0200",
+                    "endTime": "2023-06-29T09:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Hayde Noemi Lopez-Poschauko",
+                            "description": "Business Analyst at Mobrix",
+                            "icon": "women"
+                        }
+                    ]
+                },
+                {
+                    "title": "Opening",
+                    "description": "Welcome speech",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T09:00:00+0200",
+                    "endTime": "2023-06-29T09:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Andreas Gschwenter",
+                            "description": "COO Board Member",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Christian Schwarzäugl",
+                            "description": "Head of Agile Delivery Digital Experience",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Emre Erol",
+                            "description": "Mobile Evolution Tribe Lead",
+                            "icon": "people-2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Keynote",
+                    "description": "Creating a mindset for quality. Building engineering culture and aligning mindsets with other stakeholders",
+                    "icon": "microphone",
+                    "startTime": "2023-06-29T09:30:00+0200",
+                    "endTime": "2023-06-29T10:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Igal Benardete",
+                            "description": "Software Engineer at Apple",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Mobrix update",
+                    "description": "Short history and how we work",
+                    "icon": "mobile-info",
+                    "startTime": "2023-06-29T10:00:00+0200",
+                    "endTime": "2023-06-29T10:40:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Milos Macura",
+                            "description": "iOS Senior Developer",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Aleksei Pichukov",
+                            "description": "iOS Senior Developer and Technical Product Owner",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Nina Musil",
+                            "description": "Android Senior Developer",
+                            "icon": "people-2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Break",
+                    "description": "Coffee break to re-charge batteries",
+                    "icon": "coffee",
+                    "startTime": "2023-06-29T10:40:00+0200",
+                    "endTime": "2023-06-29T11:00:00+0200",
+                    "isBreak": true,
+                    "speakers": []
+                },
+                {
+                    "title": "From Zero to Hero",
+                    "description": "How Mobrix started and where we are",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T11:00:00+0200",
+                    "endTime": "2023-06-29T11:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Denis Gurnick",
+                            "description": "Solution Architect at Mobrix",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Design updates by UDS",
+                    "description": "Design updates...tobe filled",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T11:30:00+0200",
+                    "endTime": "2023-06-29T12:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Martin Kofler",
+                            "description": "UDS Product Owner",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Mobrix through the eyes of NWUs",
+                    "description": "Experience sharing in collaborating with NWUs",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T12:00:00+0200",
+                    "endTime": "2023-06-29T12:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Teofil Plaiasu",
+                            "description": "Product Manager of Digital Banking Services, Raiffeisenbank Romania",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Lunch break",
+                    "description": "Let's have lunch together",
+                    "icon": "restaurant-2",
+                    "startTime": "2023-06-29T12:30:00+0200",
+                    "endTime": "2023-06-29T13:30:00+0200",
+                    "isBreak": true,
+                    "speakers": [
+                        {
+                            "name": "All together",
+                            "description": "Let's have lunch together",
+                            "icon": "restaurant-2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Get to know",
+                    "description": "Let's get to know each other",
+                    "icon": "people-1",
+                    "startTime": "2023-06-29T13:30:00+0200",
+                    "endTime": "2023-06-29T14:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Klaudia Zemlics",
+                            "description": "Exercise to get to know each other",
+                            "icon": "people-1"
+                        }
+                    ]
+                },
+                {
+                    "title": "Behind the scenes",
+                    "description": "Life of developers and engineers",
+                    "icon": "robot",
+                    "startTime": "2023-06-29T14:00:00+0200",
+                    "endTime": "2023-06-29T15:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Gun Makinabakan",
+                            "description": "Life of developers and engineers",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Fadi Selim",
+                            "description": "The role of Mobrix at RBI",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Naval Upadhyay",
+                            "description": "The role of Mobrix at RBI",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Benjamin Dzanko",
+                            "description": "The role of Mobrix at RBI",
+                            "icon": "people-2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Let's talk about Mobrix",
+                    "description": "Pannel-Discussion",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T15:00:00+0200",
+                    "endTime": "2023-06-29T15:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Aleksei Pichukov",
+                            "description": "Pannel-Discussion regarding collaboration with Mobrix",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Nina Musil",
+                            "description": "The role of Mobrix at RBI",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Teofil Plaiasu",
+                            "description": "The role of Mobrix at RBI",
+                            "icon": "people-2"
+                        },
+                        {
+                            "name": "Elektra Myrto",
+                            "description": "The role of Mobrix at RBI",
+                            "icon": "people-2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Break",
+                    "description": "Coffee break to re-charge batteries",
+                    "icon": "coffee",
+                    "startTime": "2023-06-29T15:30:00+0200",
+                    "endTime": "2023-06-29T15:45:00+0200",
+                    "isBreak": true,
+                    "speakers": []
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Day 2",
+            "description": "Interactive Workshops per platforms (iOS + Android)",
+            "date": "30.06.2023",
+            "events": [
+                {
+                    "title": "UDS update",
+                    "description": "Short history and how we work",
+                    "icon": "mobile-info",
+                    "startTime": "2023-06-29T10:00:00+0200",
+                    "endTime": "2023-06-29T10:40:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Designer",
+                            "description": "UX Designer at UDS",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Warm up",
+                    "description": "Warm up Workshop lead by Ilgar Benardete",
+                    "icon": "repair-1",
+                    "startTime": "2023-06-30T10:40:00+0200",
+                    "endTime": "2023-06-30T11:00:00+0200",
+                    "isBreak": true,
+                    "speakers": []
+                },
+                {
+                    "title": "Lunch",
+                    "description": "Let's have lunch",
+                    "icon": "restaurant-2",
+                    "startTime": "2023-06-30T11:00:00+0200",
+                    "endTime": "2023-06-30T12:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "All together",
+                            "description": "Let's have linch together",
+                            "icon": "restaurant-2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "Dinner",
+            "description": "Let's go to this place: Brandauer Bierbögen",
+            "icon": "restaurant-2",
+            "link": "https://www.bierig.at/bierbogen/"
+        }
+    ]
+}
