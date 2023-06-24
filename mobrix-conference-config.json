@@ -1,6 +1,8 @@
 {
     "configuration": {
-        "aiKey": "d5c37ff03fda420b951e55d55d92f73b"
+        "aiKey": "d5c37ff03fda420b951e55d55d92f73b",
+        "showUdsTab": false,
+        "showChatTab": false
     },
     "days": [
         {
