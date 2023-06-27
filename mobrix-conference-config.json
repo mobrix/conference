@@ -345,6 +345,12 @@
             "description": "Let's go to this place: Brandauer Bierbögen.",
             "icon": "restaurant-2",
             "link": "https://www.bierig.at/bierbogen/"
+        },
+        {
+            "title": "Join us in WhatsApp",
+            "description": "Open this link to join the WhatsApp Group",
+            "icon": "chat-group",
+            "link": "https://chat.whatsapp.com/K3OPo3ZpT7tJNzzBEK5iFN"
         }
     ]
 }
