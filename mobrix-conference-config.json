@@ -37,17 +37,17 @@
                         {
                             "name": "Andreas Gschwenter",
                             "description": "COO Board Member",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Christian Schwarzäugl",
                             "description": "Head of Agile Delivery Digital Experience",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Emre Erol",
                             "description": "Mobile Evolution Tribe Lead",
-                            "icon": "people-2"
+                            "icon": "man"
                         }
                     ]
                 },
@@ -76,18 +76,18 @@
                     "speakers": [
                         {
                             "name": "Milos Macura",
-                            "description": "iOS Senior Developer",
+                            "description": "iOS developer at Mobrix",
                             "icon": "man"
                         },
                         {
                             "name": "Aleksei Pichukov",
-                            "description": "iOS Senior Developer and Technical Product Owner",
+                            "description": "iOS developer at Mobrix (Technical PO)",
                             "icon": "man"
                         },
                         {
                             "name": "Nina Musil",
-                            "description": "Android Senior Developer",
-                            "icon": "man"
+                            "description": "Android developer at Mobrix",
+                            "icon": "girl"
                         }
                     ]
                 },
@@ -170,7 +170,7 @@
                     "speakers": [
                         {
                             "name": "Klaudia Zemlics",
-                            "description": "Exercise to get to know each other",
+                            "description": "Agile coach",
                             "icon": "girl"
                         }
                     ]
@@ -185,29 +185,29 @@
                     "speakers": [
                         {
                             "name": "Gun Makinabakan",
-                            "description": "Life of developers and engineers",
+                            "description": "iOS developer at Mobrix",
                             "icon": "man"
                         },
                         {
                             "name": "Fadi Selim",
-                            "description": "The role of Mobrix at RBI",
+                            "description": "Android developer at Mobrix",
                             "icon": "man"
                         },
                         {
                             "name": "Naval Upadhyay",
-                            "description": "The role of Mobrix at RBI",
+                            "description": "Test engineer at Mobrix",
                             "icon": "man"
                         },
                         {
                             "name": "Benjamin Dzanko",
-                            "description": "The role of Mobrix at RBI",
-                            "icon": "people-2"
+                            "description": "DevOps engineer at Mobrix",
+                            "icon": "man"
                         }
                     ]
                 },
                 {
                     "title": "Let's talk about Mobrix",
-                    "description": "Pannel-Discussion",
+                    "description": "Pannel-Discussion regarding collaboration with Mobrix",
                     "icon": "chat-2",
                     "startTime": "2023-06-29T15:00:00+0200",
                     "endTime": "2023-06-29T15:30:00+0200",
@@ -215,23 +215,28 @@
                     "speakers": [
                         {
                             "name": "Aleksei Pichukov",
-                            "description": "Pannel-Discussion regarding collaboration with Mobrix",
+                            "description": "iOS developer at Mobrix (Technical PO)",
                             "icon": "man"
                         },
                         {
                             "name": "Nina Musil",
-                            "description": "The role of Mobrix at RBI",
+                            "description": "Android developer at Mobrix",
                             "icon": "girl"
                         },
                         {
                             "name": "Teofil Plaiasu",
-                            "description": "The role of Mobrix at RBI",
+                            "description": "Product Manager of Digital Banking Services, RBRO",
                             "icon": "man"
                         },
                         {
                             "name": "Elektra Myrto",
-                            "description": "The role of Mobrix at RBI",
+                            "description": "Digital Experience Delivery Officer at RBAL",
                             "icon": "girl"
+                        },
+                        {
+                            "name": "Vedad Bihorac",
+                            "description": "Product owner for PI Digital services at RBBH",
+                            "icon": "man"
                         }
                     ]
                 },
@@ -261,7 +266,7 @@
                 },
                  {
                     "title": "Future of the Mobile Community of Practices",
-                    "description": "Presentation",
+                    "description": "Mobile Development Community of Practices at RBI and its future",
                     "icon": "chat-2",
                     "startTime": "2023-06-29T16:15:00+0200",
                     "endTime": "2023-06-29T16:45:00+0200",
@@ -269,14 +274,14 @@
                     "speakers": [
                         {
                             "name": "Hayde Noemi Lopez-Poschauko",
-                            "description": "Mobile Development Community of Practices at RBI and its future",
+                            "description": "Business Analyst at Mobrix",
                             "icon": "girl"
                         }
                     ]
                 },
                 {
                     "title": "Closing",
-                    "description": "Presentation",
+                    "description": "Closing and organisational inputs",
                     "icon": "palm",
                     "startTime": "2023-06-29T16:45:00+0200",
                     "endTime": "2023-06-29T17:00:00+0200",
@@ -284,7 +289,7 @@
                     "speakers": [
                         {
                             "name": "Sara Nyeste",
-                            "description": "Closing and organisational inputs",
+                            "description": "Scrum master at Mobrix",
                             "icon": "girl"
                         }
                     ]
