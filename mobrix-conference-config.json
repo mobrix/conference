@@ -22,7 +22,7 @@
                         {
                             "name": "Hayde Noemi Lopez-Poschauko",
                             "description": "Business Analyst at Mobrix",
-                            "icon": "women"
+                            "icon": "girl"
                         }
                     ]
                 },
@@ -77,17 +77,17 @@
                         {
                             "name": "Milos Macura",
                             "description": "iOS Senior Developer",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Aleksei Pichukov",
                             "description": "iOS Senior Developer and Technical Product Owner",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Nina Musil",
                             "description": "Android Senior Developer",
-                            "icon": "people-2"
+                            "icon": "man"
                         }
                     ]
                 },
@@ -171,7 +171,7 @@
                         {
                             "name": "Klaudia Zemlics",
                             "description": "Exercise to get to know each other",
-                            "icon": "people-1"
+                            "icon": "girl"
                         }
                     ]
                 },
@@ -186,17 +186,17 @@
                         {
                             "name": "Gun Makinabakan",
                             "description": "Life of developers and engineers",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Fadi Selim",
                             "description": "The role of Mobrix at RBI",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Naval Upadhyay",
                             "description": "The role of Mobrix at RBI",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Benjamin Dzanko",
@@ -216,22 +216,22 @@
                         {
                             "name": "Aleksei Pichukov",
                             "description": "Pannel-Discussion regarding collaboration with Mobrix",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Nina Musil",
                             "description": "The role of Mobrix at RBI",
-                            "icon": "people-2"
+                            "icon": "girl"
                         },
                         {
                             "name": "Teofil Plaiasu",
                             "description": "The role of Mobrix at RBI",
-                            "icon": "people-2"
+                            "icon": "man"
                         },
                         {
                             "name": "Elektra Myrto",
                             "description": "The role of Mobrix at RBI",
-                            "icon": "people-2"
+                            "icon": "girl"
                         }
                     ]
                 },
@@ -243,6 +243,51 @@
                     "endTime": "2023-06-29T15:45:00+0200",
                     "isBreak": true,
                     "speakers": []
+                },
+                 {
+                    "title": "Mobrix in the context of financial industry",
+                    "description": "Presentation",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T15:45:00+0200",
+                    "endTime": "2023-06-29T16:15:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Stanislav Gatsev",
+                            "description": "How does Mobrix plays a role at RBI being a financial institiution?",
+                            "icon": "man"
+                        }
+                    ] 
+                },
+                 {
+                    "title": "Future of the Mobile Community of Practices",
+                    "description": "Presentation",
+                    "icon": "chat-2",
+                    "startTime": "2023-06-29T16:15:00+0200",
+                    "endTime": "2023-06-29T16:45:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Hayde Noemi Lopez-Poschauko",
+                            "description": "Mobile Development Community of Practices at RBI and its future",
+                            "icon": "girl"
+                        }
+                    ]
+                },
+                {
+                    "title": "Closing",
+                    "description": "Presentation",
+                    "icon": "palm",
+                    "startTime": "2023-06-29T16:45:00+0200",
+                    "endTime": "2023-06-29T17:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Sara Nyeste",
+                            "description": "Closing and organisational inputs",
+                            "icon": "girl"
+                        }
+                    ]
                 }
             ]
         },
