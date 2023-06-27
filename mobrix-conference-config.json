@@ -347,6 +347,12 @@
             "link": "https://www.bierig.at/bierbogen/"
         },
         {
+            "title": "Dinner directions",
+            "description": "How to get to the Restaurant Brandauer Bierbögen here:",
+            "icon": "route-1",
+            "link": "https://www.google.com/maps/dir/Brandauer+Bierb%C3%B6gen,+Heiligenst%C3%A4dter+Stra%C3%9Fe,+Vienna/Am+Stadtpark+RBI/@48.2221018,16.3537056,14z/data=!3m2!4b1!5s0x476d07738bd631c9:0xf5c3bd1a0b4e716!4m13!4m12!1m5!1m1!1s0x476d063307e86ac3:0xcbc09b5b63662c5d!2m2!1d16.3558719!2d48.2355906!1m5!1m1!1s0x476d0773920074f1:0xdde6048183443c4!2m2!1d16.383772!2d48.20482?entry=ttu"
+        },
+        {
             "title": "Join us in WhatsApp",
             "description": "Open this link to join the WhatsApp Group",
             "icon": "chat-group",
