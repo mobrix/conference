@@ -1,7 +1,7 @@
 {
     "configuration": {
         "aiKey": "d5c37ff03fda420b951e55d55d92f73b",
-        "showUdsTab": false,
+        "showUdsTab": true,
         "showChatTab": false
     },
     "days": [
@@ -225,7 +225,7 @@
                         },
                         {
                             "name": "Teofil Plaiasu",
-                            "description": "Product Manager of Digital Banking Services, RBRO",
+                            "description": "Product Manager of Digital Banking Services at RBRO",
                             "icon": "man"
                         },
                         {
@@ -304,7 +304,7 @@
                     "speakers": [
                         {
                             "name": "All together",
-                            "description": "Let's have a dinner together",
+                            "description": "Let's have dinner together",
                             "icon": "restaurant-2"
                         }
                     ]
@@ -358,7 +358,7 @@
                     "icon": "repair-1",
                     "startTime": "2023-06-30T10:00:00+0200",
                     "endTime": "2023-06-30T12:30:00+0200",
-                    "isBreak": true,
+                    "isBreak": false,
                     "speakers": [
                         {
                             "name": "Igal Benardete",
@@ -373,22 +373,22 @@
                     "icon": "restaurant-2",
                     "startTime": "2023-06-30T12:30:00+0200",
                     "endTime": "2023-06-30T14:00:00+0200",
-                    "isBreak": false,
+                    "isBreak": true,
                     "speakers": [
                         {
                             "name": "All together",
-                            "description": "Let's have linch together",
+                            "description": "Let's have lunch together",
                             "icon": "restaurant-2"
                         }
                     ]
                 },
                 {
                     "title": "Practical Mobrix Workshop",
-                    "description": "Warm up Workshop lead by Ilgar Benardete",
+                    "description": "Android/iOS topics",
                     "icon": "repair-1",
                     "startTime": "2023-06-30T14:00:00+0200",
                     "endTime": "2023-06-30T17:00:00+0200",
-                    "isBreak": true,
+                    "isBreak": false,
                     "speakers": [
                         {
                             "name": "Mobrix team",
@@ -403,7 +403,7 @@
                     "icon": "palm",
                     "startTime": "2023-06-30T17:00:00+0200",
                     "endTime": "2023-06-30T17:30:00+0200",
-                    "isBreak": true,
+                    "isBreak": false,
                     "speakers": [
                     ]
                 }
