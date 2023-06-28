@@ -251,7 +251,7 @@
                 },
                  {
                     "title": "Mobrix in the context of financial industry",
-                    "description": "Presentation",
+                    "description": "How does Mobrix plays a role at RBI being a financial institiution?",
                     "icon": "chat-2",
                     "startTime": "2023-06-29T15:45:00+0200",
                     "endTime": "2023-06-29T16:15:00+0200",
@@ -259,7 +259,7 @@
                     "speakers": [
                         {
                             "name": "Stanislav Gatsev",
-                            "description": "How does Mobrix plays a role at RBI being a financial institiution?",
+                            "description": "Business PO of Mobrix",
                             "icon": "man"
                         }
                     ] 
@@ -288,19 +288,19 @@
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Sara Nyeste",
-                            "description": "Scrum master at Mobrix",
-                            "icon": "girl"
+                            "name": "Mathias Fanschek",
+                            "description": "Head of Retail strategy & Digital transformation",
+                            "icon": "man"
                         }
                     ]
                 },
                 {
                     "title": "Dinner",
-                    "description": "Let's have lunch",
+                    "description": "Let's have dinner",
                     "icon": "restaurant-2",
                     "startTime": "2023-06-29T19:30:00+0200",
                     "endTime": "2023-06-29T23:00:00+0200",
-                    "isBreak": false,
+                    "isBreak": true,
                     "speakers": [
                         {
                             "name": "All together",
@@ -321,7 +321,7 @@
                     "title": "Gathering",
                     "description": "Meet together, tea, coffee",
                     "icon": "coffee",
-                    "startTime": "2023-06-30T09:30:00+0200",
+                    "startTime": "2023-06-30T09:00:00+0200",
                     "endTime": "2023-06-30T09:30:00+0200",
                     "isBreak": false,
                     "speakers": [
@@ -395,6 +395,16 @@
                             "description": "Practical topics about SwiftUI, Compose and Mobrix",
                             "icon": "people-2"
                         }
+                    ]
+                },
+                {
+                    "title": "Closing",
+                    "description": "Closing",
+                    "icon": "palm",
+                    "startTime": "2023-06-30T17:00:00+0200",
+                    "endTime": "2023-06-30T17:00:00+0200",
+                    "isBreak": true,
+                    "speakers": [
                     ]
                 }
             ]
