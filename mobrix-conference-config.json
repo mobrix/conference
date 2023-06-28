@@ -293,6 +293,21 @@
                             "icon": "girl"
                         }
                     ]
+                },
+                {
+                    "title": "Dinner",
+                    "description": "Let's have lunch",
+                    "icon": "restaurant-2",
+                    "startTime": "2023-06-29T19:30:00+0200",
+                    "endTime": "2023-06-29T23:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "All together",
+                            "description": "Let's have a dinner together",
+                            "icon": "restaurant-2"
+                        }
+                    ]
                 }
             ]
         },
@@ -303,17 +318,37 @@
             "date": "30.06.2023",
             "events": [
                 {
-                    "title": "UDS update",
-                    "description": "Short history and how we work",
-                    "icon": "mobile-info",
-                    "startTime": "2023-06-29T10:00:00+0200",
-                    "endTime": "2023-06-29T10:40:00+0200",
+                    "title": "Gathering",
+                    "description": "Meet together, tea, coffee",
+                    "icon": "coffee",
+                    "startTime": "2023-06-30T09:30:00+0200",
+                    "endTime": "2023-06-30T09:30:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Designer",
+                            "name": "Hayde Noemi Lopez-Poschauko",
+                            "description": "Business Analyst at Mobrix",
+                            "icon": "girl"
+                        }
+                    ]
+                },
+                {
+                    "title": "How UDS works",
+                    "description": "Design process overview",
+                    "icon": "art",
+                    "startTime": "2023-06-30T09:30:00+0200",
+                    "endTime": "2023-06-30T10:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Jane Stark",
                             "description": "UX Designer at UDS",
-                            "icon": "man"
+                            "icon": "girl"
+                        },
+                        {
+                            "name": "Katarina Garajova",
+                            "description": "UX Designer at UDS",
+                            "icon": "girl"
                         }
                     ]
                 },
@@ -321,23 +356,44 @@
                     "title": "Warm up",
                     "description": "Warm up Workshop lead by Ilgar Benardete",
                     "icon": "repair-1",
-                    "startTime": "2023-06-30T10:40:00+0200",
-                    "endTime": "2023-06-30T11:00:00+0200",
+                    "startTime": "2023-06-30T10:00:00+0200",
+                    "endTime": "2023-06-30T12:30:00+0200",
                     "isBreak": true,
-                    "speakers": []
+                    "speakers": [
+                        {
+                            "name": "Igal Benardete",
+                            "description": "Software Engineer at Apple",
+                            "icon": "man"
+                        }
+                    ]
                 },
                 {
                     "title": "Lunch",
                     "description": "Let's have lunch",
                     "icon": "restaurant-2",
-                    "startTime": "2023-06-30T11:00:00+0200",
-                    "endTime": "2023-06-30T12:00:00+0200",
+                    "startTime": "2023-06-30T12:30:00+0200",
+                    "endTime": "2023-06-30T14:00:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
                             "name": "All together",
                             "description": "Let's have linch together",
                             "icon": "restaurant-2"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practical Mobrix Workshop",
+                    "description": "Warm up Workshop lead by Ilgar Benardete",
+                    "icon": "repair-1",
+                    "startTime": "2023-06-30T14:00:00+0200",
+                    "endTime": "2023-06-30T17:00:00+0200",
+                    "isBreak": true,
+                    "speakers": [
+                        {
+                            "name": "Mobrix team",
+                            "description": "Practical topics about SwiftUI, Compose and Mobrix",
+                            "icon": "people-2"
                         }
                     ]
                 }
