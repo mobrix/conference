@@ -1,7 +1,7 @@
 {
     "configuration": {
         "aiKey": "d5c37ff03fda420b951e55d55d92f73b",
-        "showUdsTab": false,
+        "showUdsTab": true,
         "showChatTab": false
     },
     "days": [
@@ -52,26 +52,11 @@
                     ]
                 },
                 {
-                    "title": "Keynote",
-                    "description": "Creating a mindset for quality. Building engineering culture and aligning mindsets with other stakeholders",
-                    "icon": "microphone",
-                    "startTime": "2023-06-29T09:30:00+0200",
-                    "endTime": "2023-06-29T10:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Igal Benardete",
-                            "description": "Software Engineer at Apple",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
                     "title": "Mobrix update",
                     "description": "Short history and how we work",
                     "icon": "mobile-info",
-                    "startTime": "2023-06-29T10:00:00+0200",
-                    "endTime": "2023-06-29T10:40:00+0200",
+                    "startTime": "2023-06-29T09:30:00+0200",
+                    "endTime": "2023-06-29T10:10:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
@@ -95,10 +80,25 @@
                     "title": "Break",
                     "description": "Coffee break to re-charge batteries",
                     "icon": "coffee",
-                    "startTime": "2023-06-29T10:40:00+0200",
-                    "endTime": "2023-06-29T11:00:00+0200",
+                    "startTime": "2023-06-29T10:10:00+0200",
+                    "endTime": "2023-06-29T10:30:00+0200",
                     "isBreak": true,
                     "speakers": []
+                },
+                {
+                    "title": "Keynote",
+                    "description": "Creating a mindset for quality. Building engineering culture and aligning mindsets with other stakeholders",
+                    "icon": "microphone",
+                    "startTime": "2023-06-29T10:30:00+0200",
+                    "endTime": "2023-06-29T11:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Igal Benardete",
+                            "description": "Software Engineer at Apple",
+                            "icon": "man"
+                        }
+                    ]
                 },
                 {
                     "title": "From Zero to Hero",
