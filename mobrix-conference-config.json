@@ -292,13 +292,13 @@
                     "speakers": [
                         {
                             "name": "Peter Bartos",
-                            "description": "UX / UI Designer",
+                            "description": "UX & UI Designer",
                             "icon": "man"
                         }
                     ]
                 },
                 {
-                    "title": "iOS/Android: Alignments - Analytics/Error Handling",
+                    "title": "iOS & Android: Alignments - Analytics & Error Handling",
                     "description": "Discussing strategies for analytics and error handling in apps",
                     "icon": "settings",
                     "startTime": "2024-06-28T10:00:00+0200",
