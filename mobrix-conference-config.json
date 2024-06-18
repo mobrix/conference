@@ -1,411 +1,387 @@
 {
-    "configuration": {
-        "aiKey": "d5c37ff03fda420b951e55d55d92f73b",
-        "showUdsTab": false,
-        "showChatTab": false
-    },
     "days": [
         {
             "id": "1",
             "name": "Day 1",
-            "description": "Mobrix behind the scenes, experience sharing in collaborating with NWUs, future of our Mobile Development Community of Practice, photo contest and Get together dinner.",
-            "date": "29.06.2023",
+            "description": "Exploration of AI in the era of development, efficiency gains through new technologies, networking and security insights, and a deep dive into mobile development and redesign.",
+            "date": "27.06.2024",
             "events": [
                 {
-                    "title": "Gathering",
-                    "description": "Meet together, tea, coffee",
+                    "title": "Arrival, registration, breakfast",
+                    "description": "Meet together, tea, coffee, snacks",
                     "icon": "coffee",
-                    "startTime": "2023-06-29T08:30:00+0200",
-                    "endTime": "2023-06-29T09:00:00+0200",
+                    "startTime": "2024-06-27T08:30:00+0200",
+                    "endTime": "2024-06-27T09:00:00+0200",
                     "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Hayde Noemi Lopez-Poschauko",
-                            "description": "Business Analyst at Mobrix",
-                            "icon": "girl"
-                        }
-                    ]
+                    "speakers": []
                 },
                 {
-                    "title": "Opening",
-                    "description": "Welcome speech",
+                    "title": "Opening speech",
+                    "description": "Welcome and opening remarks",
                     "icon": "chat-2",
-                    "startTime": "2023-06-29T09:00:00+0200",
-                    "endTime": "2023-06-29T09:30:00+0200",
+                    "startTime": "2024-06-27T09:00:00+0200",
+                    "endTime": "2024-06-27T09:30:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Andreas Gschwenter",
-                            "description": "COO Board Member",
+                            "name": "Klaus Wasserburger",
+                            "description": "Group IT Delivery Client Facing",
+                            "icon": "man"
+                        },
+                        {
+                            "name": "Stanislav Gatsev",
+                            "description": "Mobile Evolution Tribe Lead",
                             "icon": "man"
                         },
                         {
                             "name": "Christian Schwarzäugl",
-                            "description": "Head of Agile Delivery Digital Experience",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Emre Erol",
-                            "description": "Mobile Evolution Tribe Lead",
+                            "description": "Head of AD Retail and Marketing",
                             "icon": "man"
                         }
                     ]
                 },
                 {
-                    "title": "Mobrix update",
-                    "description": "Short history and how we work",
-                    "icon": "mobile-info",
-                    "startTime": "2023-06-29T09:30:00+0200",
-                    "endTime": "2023-06-29T10:10:00+0200",
+                    "title": "Leading the Era of AI - Microsoft",
+                    "description": "Insights into AI advancements and applications",
+                    "icon": "brain",
+                    "startTime": "2024-06-27T09:30:00+0200",
+                    "endTime": "2024-06-27T10:00:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Milos Macura",
-                            "description": "iOS developer at Mobrix",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Aleksei Pichukov",
-                            "description": "iOS developer at Mobrix (Technical PO)",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Nina Musil",
-                            "description": "Android developer at Mobrix",
-                            "icon": "girl"
+                            "name": "Zana Pekmez",
+                            "description": "Global Account Technology Strategist",
+                            "icon": "woman"
                         }
                     ]
                 },
                 {
-                    "title": "Break",
-                    "description": "Coffee break to re-charge batteries",
+                    "title": "Efficiency gains in application development - Microsoft",
+                    "description": "Exploring the impact of General AI on software development",
+                    "icon": "settings",
+                    "startTime": "2024-06-27T10:00:00+0200",
+                    "endTime": "2024-06-27T10:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Juergen Etzlstorfer",
+                            "description": "Solution Specialist DevOps",
+                            "icon": "man"
+                        },
+                        {
+                            "name": "Henrik Andersson",
+                            "description": "Solution Specialist Data & AI",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Coffee break",
+                    "description": "Time to relax and network",
                     "icon": "coffee",
-                    "startTime": "2023-06-29T10:10:00+0200",
-                    "endTime": "2023-06-29T10:30:00+0200",
+                    "startTime": "2024-06-27T10:30:00+0200",
+                    "endTime": "2024-06-27T10:45:00+0200",
                     "isBreak": true,
                     "speakers": []
                 },
                 {
-                    "title": "Keynote",
-                    "description": "Creating a mindset for quality. Building engineering culture and aligning mindsets with other stakeholders",
-                    "icon": "microphone",
-                    "startTime": "2023-06-29T10:30:00+0200",
-                    "endTime": "2023-06-29T11:00:00+0200",
+                    "title": "MAIA",
+                    "description": "Digital Channels and Conversational AI insights",
+                    "icon": "chat-2",
+                    "startTime": "2024-06-27T10:45:00+0200",
+                    "endTime": "2024-06-27T11:45:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Igal Benardete",
-                            "description": "Software Engineer at Apple",
-                            "icon": "man"
+                            "name": "Ivana Despotovic",
+                            "description": "Digital Channels and Conversational AI Expert",
+                            "icon": "woman"
                         }
                     ]
                 },
                 {
-                    "title": "From Zero to Hero",
-                    "description": "How Mobrix started and where we are",
-                    "icon": "chat-2",
-                    "startTime": "2023-06-29T11:00:00+0200",
-                    "endTime": "2023-06-29T11:30:00+0200",
+                    "title": "AI in mobile development - RBHU",
+                    "description": "How AI is integrating into mobile development",
+                    "icon": "mobile-info",
+                    "startTime": "2024-06-27T11:45:00+0200",
+                    "endTime": "2024-06-27T12:30:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Denis Gurnick",
-                            "description": "Solution Architect at Mobrix",
+                            "name": "Balazs Szaszi",
+                            "description": "IT Delivery Lead",
                             "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Design updates by UDS",
-                    "description": "Design updates...tobe filled",
-                    "icon": "chat-2",
-                    "startTime": "2023-06-29T11:30:00+0200",
-                    "endTime": "2023-06-29T12:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
+                        },
                         {
-                            "name": "Martin Kofler",
-                            "description": "UDS Product Owner",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Mobrix through the eyes of NWUs",
-                    "description": "Experience sharing in collaborating with NWUs",
-                    "icon": "chat-2",
-                    "startTime": "2023-06-29T12:00:00+0200",
-                    "endTime": "2023-06-29T12:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Teofil Plaiasu",
-                            "description": "Product Manager of Digital Banking Services, Raiffeisenbank Romania",
+                            "name": "Nandor Morucz",
+                            "description": "Android developer",
                             "icon": "man"
                         }
                     ]
                 },
                 {
                     "title": "Lunch break",
-                    "description": "Let's have lunch together",
+                    "description": "Enjoy a variety of cuisines",
                     "icon": "restaurant-2",
-                    "startTime": "2023-06-29T12:30:00+0200",
-                    "endTime": "2023-06-29T13:30:00+0200",
-                    "isBreak": true,
-                    "speakers": [
-                        {
-                            "name": "All together",
-                            "description": "Let's have lunch together",
-                            "icon": "restaurant-2"
-                        }
-                    ]
-                },
-                {
-                    "title": "Get to know",
-                    "description": "Let's get to know each other",
-                    "icon": "people-1",
-                    "startTime": "2023-06-29T13:30:00+0200",
-                    "endTime": "2023-06-29T14:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Klaudia Zemlics",
-                            "description": "Agile coach",
-                            "icon": "girl"
-                        }
-                    ]
-                },
-                {
-                    "title": "Behind the scenes",
-                    "description": "Life of developers and engineers",
-                    "icon": "robot",
-                    "startTime": "2023-06-29T14:00:00+0200",
-                    "endTime": "2023-06-29T15:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Gun Makinabakan",
-                            "description": "iOS developer at Mobrix",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Fadi Selim",
-                            "description": "Android developer at Mobrix",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Naval Upadhyay",
-                            "description": "Test engineer at Mobrix",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Benjamin Dzanko",
-                            "description": "DevOps engineer at Mobrix",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Let's talk about Mobrix",
-                    "description": "Pannel-Discussion regarding collaboration with Mobrix",
-                    "icon": "chat-2",
-                    "startTime": "2023-06-29T15:00:00+0200",
-                    "endTime": "2023-06-29T15:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Aleksei Pichukov",
-                            "description": "iOS developer at Mobrix (Technical PO)",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Nina Musil",
-                            "description": "Android developer at Mobrix",
-                            "icon": "girl"
-                        },
-                        {
-                            "name": "Teofil Plaiasu",
-                            "description": "Product Manager of Digital Banking Services at RBRO",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Elektra Myrto",
-                            "description": "Digital Experience Delivery Officer at RBAL",
-                            "icon": "girl"
-                        },
-                        {
-                            "name": "Vedad Bihorac",
-                            "description": "Product owner for PI Digital services at RBBH",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Break",
-                    "description": "Coffee break to re-charge batteries",
-                    "icon": "coffee",
-                    "startTime": "2023-06-29T15:30:00+0200",
-                    "endTime": "2023-06-29T15:45:00+0200",
+                    "startTime": "2024-06-27T12:30:00+0200",
+                    "endTime": "2024-06-27T13:30:00+0200",
                     "isBreak": true,
                     "speakers": []
                 },
-                 {
-                    "title": "Mobrix in the context of financial industry",
-                    "description": "How does Mobrix plays a role at RBI being a financial institiution?",
-                    "icon": "chat-2",
-                    "startTime": "2023-06-29T15:45:00+0200",
-                    "endTime": "2023-06-29T16:15:00+0200",
+                {
+                    "title": "Networking Game",
+                    "description": "Engage in an interactive networking activity",
+                    "icon": "people-1",
+                    "startTime": "2024-06-27T13:30:00+0200",
+                    "endTime": "2024-06-27T14:00:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Stanislav Gatsev",
-                            "description": "Business PO of Mobrix",
-                            "icon": "man"
-                        }
-                    ] 
-                },
-                 {
-                    "title": "Future of the Mobile Community of Practices",
-                    "description": "Mobile Development Community of Practices at RBI and its future",
-                    "icon": "chat-2",
-                    "startTime": "2023-06-29T16:15:00+0200",
-                    "endTime": "2023-06-29T16:45:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Hayde Noemi Lopez-Poschauko",
-                            "description": "Business Analyst at Mobrix",
-                            "icon": "girl"
+                            "name": "Klaudia Zemlic",
+                            "description": "RBI agile coach",
+                            "icon": "woman"
                         }
                     ]
                 },
                 {
-                    "title": "Closing",
-                    "description": "Closing and organisational inputs",
-                    "icon": "palm",
-                    "startTime": "2023-06-29T16:45:00+0200",
-                    "endTime": "2023-06-29T17:00:00+0200",
+                    "title": "Kotlin Multiplatform in scope of Mobrix",
+                    "description": "Exploring Kotlin Multiplatform within Mobrix's context",
+                    "icon": "code",
+                    "startTime": "2024-06-27T14:00:00+0200",
+                    "endTime": "2024-06-27T14:45:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Mathias Fanschek",
-                            "description": "Head of Retail strategy & Digital transformation",
+                            "name": "Kyrylo Prybylskyi",
+                            "description": "RBUA Software engineer",
                             "icon": "man"
                         }
                     ]
+                },
+                {
+                    "title": "Reference architecture",
+                    "description": "Understanding the blueprint of system architecture",
+                    "icon": "architecture",
+                    "startTime": "2024-06-27T14:45:00+0200",
+                    "endTime": "2024-06-27T15:15:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Artem Shvetsov",
+                            "description": "RBUA Software engineer",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cyber security: RASP",
+                    "description": "Discussing Runtime Application Self-Protection",
+                    "icon": "security",
+                    "startTime": "2024-06-27T15:15:00+0200",
+                    "endTime": "2024-06-27T15:45:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Arti Karahoda",
+                            "description": "RBI Cyber Security Expert",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Coffee break",
+                    "description": "A short break for refreshments",
+                    "icon": "coffee",
+                    "startTime": "2024-06-27T15:45:00+0200",
+                    "endTime": "2024-06-27T16:00:00+0200",
+                    "isBreak": true,
+                    "speakers": []
+                },
+                {
+                    "title": "UDS 2.0 redesign",
+                    "description": "Unveiling the new UDS redesign",
+                    "icon": "design",
+                    "startTime": "2024-06-27T16:00:00+0200",
+                    "endTime": "2024-06-27T16:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Michael Hajek",
+                            "description": "RBCZ iOS developer",
+                            "icon": "man"
+                        },
+                        {
+                            "name": "Lukas Kratochvili",
+                            "description": "RBCZ Android developer",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "AI Basics",
+                    "description": "Introduction to AI concepts and technologies",
+                    "icon": "brain",
+                    "startTime": "2024-06-27T16:30:00+0200",
+                    "endTime": "2024-06-27T17:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Milos Macura",
+                            "description": "RBI iOS developer",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Closing, group photo",
+                    "description": "Closing remarks and group photo session",
+                    "icon": "camera",
+                    "startTime": "2024-06-27T17:00:00+0200",
+                    "endTime": "2024-06-27T17:15:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Sara Nyeste",
+                            "description": "RBI IT delivery manager",
+                            "icon": "woman"
+                        }
+                    ]
+                },
+                {
+                    "title": "Free time",
+                    "description": "Relax and prepare for the evening",
+                    "icon": "time",
+                    "startTime": "2024-06-27T17:15:00+0200",
+                    "endTime": "2024-06-27T19:00:00+0200",
+                    "isBreak": true,
+                    "speakers": []
                 },
                 {
                     "title": "Dinner",
-                    "description": "Let's have dinner",
+                    "description": "Enjoy a delightful dinner",
                     "icon": "restaurant-2",
-                    "startTime": "2023-06-29T19:30:00+0200",
-                    "endTime": "2023-06-29T23:00:00+0200",
+                    "startTime": "2024-06-27T19:00:00+0200",
+                    "endTime": "2024-06-27T23:00:00+0200",
                     "isBreak": true,
-                    "speakers": [
-                        {
-                            "name": "All together",
-                            "description": "Let's have dinner together",
-                            "icon": "restaurant-2"
-                        }
-                    ]
+                    "speakers": []
                 }
             ]
         },
         {
             "id": "2",
             "name": "Day 2",
-            "description": "Interactive Workshops per platforms (iOS + Android)",
-            "date": "30.06.2023",
+            "description": "A day dedicated to updates, alignment, and in-depth workshops focusing on iOS and Android platforms.",
+            "date": "28.06.2024",
             "events": [
                 {
-                    "title": "Gathering",
-                    "description": "Meet together, tea, coffee",
+                    "title": "Arrival, registration, breakfast",
+                    "description": "Meet together, tea, coffee, snacks",
                     "icon": "coffee",
-                    "startTime": "2023-06-30T09:00:00+0200",
-                    "endTime": "2023-06-30T09:30:00+0200",
+                    "startTime": "2024-06-28T09:00:00+0200",
+                    "endTime": "2024-06-28T09:30:00+0200",
                     "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Hayde Noemi Lopez-Poschauko",
-                            "description": "Business Analyst at Mobrix",
-                            "icon": "girl"
-                        }
-                    ]
+                    "speakers": []
                 },
                 {
-                    "title": "How UDS works",
-                    "description": "Design process overview",
-                    "icon": "art",
-                    "startTime": "2023-06-30T09:30:00+0200",
-                    "endTime": "2023-06-30T10:00:00+0200",
+                    "title": "UDS and Figma updates",
+                    "description": "Latest updates on UDS and Figma integration",
+                    "icon": "update",
+                    "startTime": "2024-06-28T09:30:00+0200",
+                    "endTime": "2024-06-28T10:00:00+0200",
                     "isBreak": false,
                     "speakers": [
                         {
-                            "name": "Jane Stark",
-                            "description": "UX Designer at UDS",
-                            "icon": "girl"
-                        },
-                        {
-                            "name": "Katarina Garajova",
-                            "description": "UX Designer at UDS",
-                            "icon": "girl"
-                        }
-                    ]
-                },
-                {
-                    "title": "Warm up",
-                    "description": "Warm up Workshop lead by Ilgar Benardete",
-                    "icon": "repair-1",
-                    "startTime": "2023-06-30T10:00:00+0200",
-                    "endTime": "2023-06-30T12:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Igal Benardete",
-                            "description": "Software Engineer at Apple",
+                            "name": "Peter Bartos",
+                            "description": "UX / UI Designer",
                             "icon": "man"
                         }
                     ]
                 },
                 {
-                    "title": "Lunch",
-                    "description": "Let's have lunch",
-                    "icon": "restaurant-2",
-                    "startTime": "2023-06-30T12:30:00+0200",
-                    "endTime": "2023-06-30T14:00:00+0200",
+                    "title": "iOS/Android: Alignments - Analytics/Error Handling",
+                    "description": "Discussing strategies for analytics and error handling in apps",
+                    "icon": "settings",
+                    "startTime": "2024-06-28T10:00:00+0200",
+                    "endTime": "2024-06-28T11:00:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Nina Musil",
+                            "description": "Android developer",
+                            "icon": "woman"
+                        },
+                        {
+                            "name": "Milos Macura",
+                            "description": "iOS developer",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Split up break",
+                    "description": "A short interval before the workshops",
+                    "icon": "coffee",
+                    "startTime": "2024-06-28T11:00:00+0200",
+                    "endTime": "2024-06-28T11:15:00+0200",
                     "isBreak": true,
+                    "speakers": []
+                },
+                {
+                    "title": "Android - SDK problems",
+                    "description": "Addressing common issues with Android SDK",
+                    "icon": "android",
+                    "startTime": "2024-06-28T11:15:00+0200",
+                    "endTime": "2024-06-28T12:30:00+0200",
+                    "isBreak": false,
                     "speakers": [
                         {
-                            "name": "All together",
-                            "description": "Let's have lunch together",
-                            "icon": "restaurant-2"
+                            "name": "Fadi Selim",
+                            "description": "Android developer",
+                            "icon": "man"
                         }
                     ]
                 },
                 {
-                    "title": "Practical Mobrix Workshop",
-                    "description": "Android/iOS topics",
+                    "title": "iOS - Localisation, navigation",
+                    "description": "Best practices for iOS app localisation and navigation",
+                    "icon": "ios",
+                    "startTime": "2024-06-28T11:15:00+0200",
+                    "endTime": "2024-06-28T12:30:00+0200",
+                    "isBreak": false,
+                    "speakers": [
+                        {
+                            "name": "Milos Macura",
+                            "description": "iOS developer",
+                            "icon": "man"
+                        }
+                    ]
+                },
+                {
+                    "title": "Lunch break",
+                    "description": "Time to enjoy a meal and network",
+                    "icon": "restaurant-2",
+                    "startTime": "2024-06-28T12:30:00+0200",
+                    "endTime": "2024-06-28T13:30:00+0200",
+                    "isBreak": true,
+                    "speakers": []
+                },
+                {
+                    "title": "Workshop",
+                    "description": "Interactive workshop session",
                     "icon": "repair-1",
-                    "startTime": "2023-06-30T14:00:00+0200",
-                    "endTime": "2023-06-30T17:00:00+0200",
+                    "startTime": "2024-06-28T13:30:00+0200",
+                    "endTime": "2024-06-28T15:00:00+0200",
                     "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Mobrix team",
-                            "description": "Practical topics about SwiftUI, Compose and Mobrix",
-                            "icon": "people-2"
-                        }
-                    ]
+                    "speakers": []
                 },
                 {
-                    "title": "Closing",
-                    "description": "Closing",
-                    "icon": "palm",
-                    "startTime": "2023-06-30T17:00:00+0200",
-                    "endTime": "2023-06-30T17:30:00+0200",
+                    "title": "Closing, celebration, pictures, winner of the photo contest",
+                    "description": "Closing ceremony and celebration of achievements",
+                    "icon": "camera",
+                    "startTime": "2024-06-28T15:00:00+0200",
+                    "endTime": "2024-06-28T15:30:00+0200",
                     "isBreak": false,
-                    "speakers": [
-                    ]
+                    "speakers": []
                 }
             ]
         }
@@ -413,21 +389,9 @@
     "news": [
         {
             "title": "Dinner",
-            "description": "Let's go to this place: Brandauer Bierbögen.",
+            "description": "Let's go to this place: Brandauer Bierbögen",
             "icon": "restaurant-2",
             "link": "https://www.bierig.at/bierbogen/"
-        },
-        {
-            "title": "Dinner directions",
-            "description": "How to get to the Restaurant Brandauer Bierbögen here:",
-            "icon": "route-1",
-            "link": "https://www.google.com/maps/dir/Brandauer+Bierb%C3%B6gen,+Heiligenst%C3%A4dter+Stra%C3%9Fe,+Vienna/Am+Stadtpark+RBI/@48.2221018,16.3537056,14z/data=!3m2!4b1!5s0x476d07738bd631c9:0xf5c3bd1a0b4e716!4m13!4m12!1m5!1m1!1s0x476d063307e86ac3:0xcbc09b5b63662c5d!2m2!1d16.3558719!2d48.2355906!1m5!1m1!1s0x476d0773920074f1:0xdde6048183443c4!2m2!1d16.383772!2d48.20482?entry=ttu"
-        },
-        {
-            "title": "Join us in WhatsApp",
-            "description": "Open this link to join the WhatsApp Group",
-            "icon": "chat-group",
-            "link": "https://chat.whatsapp.com/K3OPo3ZpT7tJNzzBEK5iFN"
         }
     ]
 }
