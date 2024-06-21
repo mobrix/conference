@@ -389,15 +389,15 @@
     "news": [
         {
             "title": "Dinner",
-            "description": "Let's go to this place: Brandauer Bierbögen",
+            "description": "Let's go to this place: Salmbräu, Rennweg 8",
             "icon": "restaurant-2",
-            "link": "https://www.bierig.at/bierbogen/"
+            "link": "https://salmbraeu.com/en/welcome-to-salm-braeu-br-span-class-smaller-brewery-destillery-and-restaurantspan/"
         },
         {
             "title": "Dinner directions",
             "description": "How to get to the Restaurant Brandauer Bierbögen here:",
             "icon": "route-1",
-            "link": "https://www.google.com/maps/dir/Brandauer+Bierb%C3%B6gen,+Heiligenst%C3%A4dter+Stra%C3%9Fe,+Vienna/Am+Stadtpark+RBI/@48.2221018,16.3537056,14z/data=!3m2!4b1!5s0x476d07738bd631c9:0xf5c3bd1a0b4e716!4m13!4m12!1m5!1m1!1s0x476d063307e86ac3:0xcbc09b5b63662c5d!2m2!1d16.3558719!2d48.2355906!1m5!1m1!1s0x476d0773920074f1:0xdde6048183443c4!2m2!1d16.383772!2d48.20482?entry=ttu"
+            "link": "https://www.google.com/maps/dir/Raiffeisen+Bank+International,+Am+Stadtpark,+Wien/Salm+Br%C3%A4u,+Rennweg,+Wien/@48.1994919,16.3776933,16z/data=!3m1!5s0x476d07738bd631c9:0xf5c3bd1a0b4e716!4m14!4m13!1m5!1m1!1s0x476d0773920074f1:0xdde6048183443c4!2m2!1d16.383772!2d48.20482!1m5!1m1!1s0x476d077a4eb0ee85:0xcd830136e50f904a!2m2!1d16.380861!2d48.196667!3e2?entry=ttu"
         },
         {
             "title": "Join us in WhatsApp",
