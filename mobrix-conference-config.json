@@ -1,409 +1,423 @@
 {
-    "days": [
+  "days": [
+    {
+      "id": "1",
+      "name": "Day 1",
+      "description": "Exploration of AI in the era of development, efficiency gains through new technologies, networking and security insights, and a deep dive into mobile development and redesign.",
+      "date": "27.06.2024",
+      "events": [
         {
-            "id": "1",
-            "name": "Day 1",
-            "description": "Exploration of AI in the era of development, efficiency gains through new technologies, networking and security insights, and a deep dive into mobile development and redesign.",
-            "date": "27.06.2024",
-            "events": [
-                {
-                    "title": "Arrival, registration, breakfast",
-                    "description": "Meet together, tea, coffee, snacks",
-                    "icon": "coffee",
-                    "startTime": "2024-06-27T08:30:00+0200",
-                    "endTime": "2024-06-27T09:00:00+0200",
-                    "isBreak": false,
-                    "speakers": []
-                },
-                {
-                    "title": "Opening speech",
-                    "description": "Welcome and opening remarks",
-                    "icon": "chat-2",
-                    "startTime": "2024-06-27T09:00:00+0200",
-                    "endTime": "2024-06-27T09:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Klaus Wasserburger",
-                            "description": "Group IT Delivery Client Facing",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Stanislav Gatsev",
-                            "description": "Mobile Evolution Tribe Lead",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Christian Schwarzäugl",
-                            "description": "Head of AD Retail and Marketing",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Leading the Era of AI - Microsoft",
-                    "description": "Insights into AI advancements and applications",
-                    "icon": "brain",
-                    "startTime": "2024-06-27T09:30:00+0200",
-                    "endTime": "2024-06-27T10:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Zana Pekmez",
-                            "description": "Global Account Technology Strategist",
-                            "icon": "woman"
-                        }
-                    ]
-                },
-                {
-                    "title": "Efficiency gains in application development - Microsoft",
-                    "description": "Exploring the impact of General AI on software development",
-                    "icon": "settings",
-                    "startTime": "2024-06-27T10:00:00+0200",
-                    "endTime": "2024-06-27T10:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Juergen Etzlstorfer",
-                            "description": "Solution Specialist DevOps",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Henrik Andersson",
-                            "description": "Solution Specialist Data & AI",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Coffee break",
-                    "description": "Time to relax and network",
-                    "icon": "coffee",
-                    "startTime": "2024-06-27T10:30:00+0200",
-                    "endTime": "2024-06-27T10:45:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                },
-                {
-                    "title": "MAIA",
-                    "description": "Digital Channels and Conversational AI insights",
-                    "icon": "chat-2",
-                    "startTime": "2024-06-27T10:45:00+0200",
-                    "endTime": "2024-06-27T11:45:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Ivana Despotovic",
-                            "description": "Digital Channels and Conversational AI Expert",
-                            "icon": "woman"
-                        }
-                    ]
-                },
-                {
-                    "title": "AI in mobile development - RBHU",
-                    "description": "How AI is integrating into mobile development",
-                    "icon": "mobile-info",
-                    "startTime": "2024-06-27T11:45:00+0200",
-                    "endTime": "2024-06-27T12:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Balazs Szaszi",
-                            "description": "IT Delivery Lead",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Nandor Morucz",
-                            "description": "Android developer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Lunch break",
-                    "description": "Enjoy a variety of cuisines",
-                    "icon": "restaurant-2",
-                    "startTime": "2024-06-27T12:30:00+0200",
-                    "endTime": "2024-06-27T13:30:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                },
-                {
-                    "title": "Networking Game",
-                    "description": "Engage in an interactive networking activity",
-                    "icon": "people-1",
-                    "startTime": "2024-06-27T13:30:00+0200",
-                    "endTime": "2024-06-27T14:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Klaudia Zemlics",
-                            "description": "RBI agile coach",
-                            "icon": "woman"
-                        }
-                    ]
-                },
-                {
-                    "title": "Kotlin Multiplatform in scope of Mobrix",
-                    "description": "Exploring Kotlin Multiplatform within Mobrix's context",
-                    "icon": "code",
-                    "startTime": "2024-06-27T14:00:00+0200",
-                    "endTime": "2024-06-27T14:45:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Kyrylo Prybylskyi",
-                            "description": "RBUA Software engineer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Reference architecture",
-                    "description": "Understanding the blueprint of system architecture",
-                    "icon": "architecture",
-                    "startTime": "2024-06-27T14:45:00+0200",
-                    "endTime": "2024-06-27T15:15:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Artem Shvetsov",
-                            "description": "RBUA Software engineer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Cyber security: RASP",
-                    "description": "Discussing Runtime Application Self-Protection",
-                    "icon": "security",
-                    "startTime": "2024-06-27T15:15:00+0200",
-                    "endTime": "2024-06-27T15:45:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Arti Karahoda",
-                            "description": "RBI Cyber Security Expert",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Coffee break",
-                    "description": "A short break for refreshments",
-                    "icon": "coffee",
-                    "startTime": "2024-06-27T15:45:00+0200",
-                    "endTime": "2024-06-27T16:00:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                },
-                {
-                    "title": "UDS 2.0 redesign",
-                    "description": "Unveiling the new UDS redesign",
-                    "icon": "design",
-                    "startTime": "2024-06-27T16:00:00+0200",
-                    "endTime": "2024-06-27T16:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Michael Hajek",
-                            "description": "RBCZ iOS developer",
-                            "icon": "man"
-                        },
-                        {
-                            "name": "Lukas Kratochvili",
-                            "description": "RBCZ Android developer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "AI Basics",
-                    "description": "Introduction to AI concepts and technologies",
-                    "icon": "brain",
-                    "startTime": "2024-06-27T16:30:00+0200",
-                    "endTime": "2024-06-27T17:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Milos Macura",
-                            "description": "RBI iOS developer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Closing, group photo",
-                    "description": "Closing remarks and group photo session",
-                    "icon": "camera",
-                    "startTime": "2024-06-27T17:00:00+0200",
-                    "endTime": "2024-06-27T17:15:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Sara Nyeste",
-                            "description": "RBI IT delivery manager",
-                            "icon": "woman"
-                        }
-                    ]
-                },
-                {
-                    "title": "Free time",
-                    "description": "Relax and prepare for the evening",
-                    "icon": "time",
-                    "startTime": "2024-06-27T17:15:00+0200",
-                    "endTime": "2024-06-27T19:00:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                },
-                {
-                    "title": "Dinner",
-                    "description": "Enjoy a delightful dinner",
-                    "icon": "restaurant-2",
-                    "startTime": "2024-06-27T19:00:00+0200",
-                    "endTime": "2024-06-27T23:00:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                }
-            ]
+          "title": "Arrival, registration, breakfast",
+          "description": "Meet together, tea, coffee, snacks",
+          "icon": "coffee",
+          "startTime": "2024-06-27T08:30:00+0200",
+          "endTime": "2024-06-27T09:00:00+0200",
+          "isBreak": false,
+          "speakers": []
         },
         {
-            "id": "2",
-            "name": "Day 2",
-            "description": "A day dedicated to updates, alignment, and in-depth workshops focusing on iOS and Android platforms.",
-            "date": "28.06.2024",
-            "events": [
-                {
-                    "title": "Arrival, registration, breakfast",
-                    "description": "Meet together, tea, coffee, snacks",
-                    "icon": "coffee",
-                    "startTime": "2024-06-28T09:00:00+0200",
-                    "endTime": "2024-06-28T09:30:00+0200",
-                    "isBreak": false,
-                    "speakers": []
-                },
-                {
-                    "title": "UDS and Figma updates",
-                    "description": "Latest updates on UDS and Figma integration",
-                    "icon": "update",
-                    "startTime": "2024-06-28T09:30:00+0200",
-                    "endTime": "2024-06-28T10:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Peter Bartos",
-                            "description": "UX & UI Designer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "iOS & Android: Alignments - Analytics & Error Handling",
-                    "description": "Discussing strategies for analytics and error handling in apps",
-                    "icon": "settings",
-                    "startTime": "2024-06-28T10:00:00+0200",
-                    "endTime": "2024-06-28T11:00:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Nina Musil",
-                            "description": "Android developer",
-                            "icon": "woman"
-                        },
-                        {
-                            "name": "Milos Macura",
-                            "description": "iOS developer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Split up break",
-                    "description": "A short interval before the workshops",
-                    "icon": "coffee",
-                    "startTime": "2024-06-28T11:00:00+0200",
-                    "endTime": "2024-06-28T11:15:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                },
-                {
-                    "title": "Android - SDK problems",
-                    "description": "Addressing common issues with Android SDK",
-                    "icon": "android",
-                    "startTime": "2024-06-28T11:15:00+0200",
-                    "endTime": "2024-06-28T12:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Fadi Selim",
-                            "description": "Android developer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "iOS - Localisation, navigation",
-                    "description": "Best practices for iOS app localisation and navigation",
-                    "icon": "ios",
-                    "startTime": "2024-06-28T11:15:00+0200",
-                    "endTime": "2024-06-28T12:30:00+0200",
-                    "isBreak": false,
-                    "speakers": [
-                        {
-                            "name": "Milos Macura",
-                            "description": "iOS developer",
-                            "icon": "man"
-                        }
-                    ]
-                },
-                {
-                    "title": "Lunch break",
-                    "description": "Time to enjoy a meal and network",
-                    "icon": "restaurant-2",
-                    "startTime": "2024-06-28T12:30:00+0200",
-                    "endTime": "2024-06-28T13:30:00+0200",
-                    "isBreak": true,
-                    "speakers": []
-                },
-                {
-                    "title": "Workshop",
-                    "description": "Interactive workshop session",
-                    "icon": "repair-1",
-                    "startTime": "2024-06-28T13:30:00+0200",
-                    "endTime": "2024-06-28T15:00:00+0200",
-                    "isBreak": false,
-                    "speakers": []
-                },
-                {
-                    "title": "Closing, celebration, pictures, winner of the photo contest",
-                    "description": "Closing ceremony and celebration of achievements",
-                    "icon": "camera",
-                    "startTime": "2024-06-28T15:00:00+0200",
-                    "endTime": "2024-06-28T15:30:00+0200",
-                    "isBreak": false,
-                    "speakers": []
-                }
-            ]
+          "title": "Opening speech",
+          "description": "Welcome and opening remarks",
+          "icon": "consultation",
+          "startTime": "2024-06-27T09:00:00+0200",
+          "endTime": "2024-06-27T09:30:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Klaus Wasserburger",
+              "description": "Group IT Delivery Client Facing",
+              "icon": "man"
+            },
+            {
+              "name": "Stanislav Gatsev",
+              "description": "Mobile Evolution Tribe Lead",
+              "icon": "man"
+            },
+            {
+              "name": "Christian Schwarzäugl",
+              "description": "Head of AD Retail and Marketing",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Leading the Era of AI - Microsoft",
+          "description": "Insights into AI advancements and applications",
+          "icon": "chart-line",
+          "startTime": "2024-06-27T09:30:00+0200",
+          "endTime": "2024-06-27T10:00:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Zana Pekmez",
+              "description": "Global Account Technology Strategist",
+              "icon": "woman"
+            }
+          ]
+        },
+        {
+          "title": "Efficiency gains in application development - Microsoft",
+          "description": "Exploring the impact of General AI on software development",
+          "icon": "entertainment-1",
+          "startTime": "2024-06-27T10:00:00+0200",
+          "endTime": "2024-06-27T10:30:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Juergen Etzlstorfer",
+              "description": "Solution Specialist DevOps",
+              "icon": "man"
+            },
+            {
+              "name": "Henrik Andersson",
+              "description": "Solution Specialist Data & AI",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Coffee break",
+          "description": "Time to relax and network",
+          "icon": "coffee",
+          "startTime": "2024-06-27T10:30:00+0200",
+          "endTime": "2024-06-27T10:45:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "MAIA",
+          "description": "Digital Channels and Conversational AI insights",
+          "icon": "chat-2",
+          "startTime": "2024-06-27T10:45:00+0200",
+          "endTime": "2024-06-27T11:45:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Ivana Despotovic",
+              "description": "Digital Channels and Conversational AI Expert",
+              "icon": "woman"
+            }
+          ]
+        },
+        {
+          "title": "AI in mobile development - RBHU",
+          "description": "How AI is integrating into mobile development",
+          "icon": "mobile-info",
+          "startTime": "2024-06-27T11:45:00+0200",
+          "endTime": "2024-06-27T12:30:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Balazs Szaszi",
+              "description": "IT Delivery Lead",
+              "icon": "man"
+            },
+            {
+              "name": "Nandor Morucz",
+              "description": "Android developer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Lunch break",
+          "description": "Enjoy a variety of cuisines",
+          "icon": "restaurant-2",
+          "startTime": "2024-06-27T12:30:00+0200",
+          "endTime": "2024-06-27T13:30:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "Networking Game",
+          "description": "Engage in an interactive networking activity",
+          "icon": "people-2",
+          "startTime": "2024-06-27T13:30:00+0200",
+          "endTime": "2024-06-27T14:00:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Klaudia Zemlics",
+              "description": "RBI agile coach",
+              "icon": "woman"
+            }
+          ]
+        },
+        {
+          "title": "Kotlin Multiplatform in scope of Mobrix",
+          "description": "Exploring Kotlin Multiplatform within Mobrix's context",
+          "icon": "repair-1",
+          "startTime": "2024-06-27T14:00:00+0200",
+          "endTime": "2024-06-27T14:45:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Kyrylo Prybylskyi",
+              "description": "RBUA Software engineer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Reference architecture",
+          "description": "Understanding the blueprint of system architecture",
+          "icon": "bank-building-2",
+          "startTime": "2024-06-27T14:45:00+0200",
+          "endTime": "2024-06-27T15:15:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Artem Shvetsov",
+              "description": "RBUA Software engineer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Cyber security: RASP",
+          "description": "Discussing Runtime Application Self-Protection",
+          "icon": "shield-check",
+          "startTime": "2024-06-27T15:15:00+0200",
+          "endTime": "2024-06-27T15:45:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Arti Karahoda",
+              "description": "RBI Cyber Security Expert",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Coffee break",
+          "description": "A short break for refreshments",
+          "icon": "coffee",
+          "startTime": "2024-06-27T15:45:00+0200",
+          "endTime": "2024-06-27T16:00:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "UDS 2.0 redesign",
+          "description": "Unveiling the new UDS redesign",
+          "icon": "design",
+          "startTime": "2024-06-27T16:00:00+0200",
+          "endTime": "2024-06-27T16:30:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Michael Hajek",
+              "description": "RBCZ iOS developer",
+              "icon": "man"
+            },
+            {
+              "name": "Lukas Kratochvili",
+              "description": "RBCZ Android developer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "AI Basics",
+          "description": "Introduction to AI concepts and technologies",
+          "icon": "person-level",
+          "startTime": "2024-06-27T16:30:00+0200",
+          "endTime": "2024-06-27T17:00:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Milos Macura",
+              "description": "RBI iOS developer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Closing, group photo",
+          "description": "Closing remarks and group photo session",
+          "icon": "camera-photo",
+          "startTime": "2024-06-27T17:00:00+0200",
+          "endTime": "2024-06-27T17:15:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Sara Nyeste",
+              "description": "RBI IT delivery manager",
+              "icon": "woman"
+            }
+          ]
+        },
+        {
+          "title": "Free time",
+          "description": "Relax and prepare for the evening",
+          "icon": "enter",
+          "startTime": "2024-06-27T17:15:00+0200",
+          "endTime": "2024-06-27T18:30:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "Meeting point for dinner - 18:30 !",
+          "description": "Important: we will have surprise transportation to the restaurant at 18:30. Please come to the RBI Stadtpark main entrance at 18:30, and we will pick you up. DON'T MISS IT!",
+          "icon": "warning-tr-filled",
+          "startTime": "2024-06-27T18:30:00+0200",
+          "endTime": "2024-06-27T19:00:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "Dinner",
+          "description": "Enjoy a delightful dinner",
+          "icon": "restaurant-2",
+          "startTime": "2024-06-27T19:00:00+0200",
+          "endTime": "2024-06-27T23:00:00+0200",
+          "isBreak": true,
+          "speakers": []
         }
-    ],
-    "news": [
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Day 2",
+      "description": "A day dedicated to updates, alignment, and in-depth workshops focusing on iOS and Android platforms.",
+      "date": "28.06.2024",
+      "events": [
         {
-            "title": "Dinner",
-            "description": "Let's go to this place: Salmbräu, Rennweg 8",
-            "icon": "restaurant-2",
-            "link": "https://salmbraeu.com/en/welcome-to-salm-braeu-br-span-class-smaller-brewery-destillery-and-restaurantspan/"
+          "title": "Arrival, registration, breakfast",
+          "description": "Meet together, tea, coffee, snacks",
+          "icon": "coffee",
+          "startTime": "2024-06-28T09:00:00+0200",
+          "endTime": "2024-06-28T09:30:00+0200",
+          "isBreak": false,
+          "speakers": []
         },
         {
-            "title": "Dinner directions",
-            "description": "How to get to the Restaurant Brandauer Bierbögen here:",
-            "icon": "route-1",
-            "link": "https://www.google.com/maps/dir/Raiffeisen+Bank+International,+Am+Stadtpark,+Wien/Salm+Br%C3%A4u,+Rennweg,+Wien/@48.1994919,16.3776933,16z/data=!3m1!5s0x476d07738bd631c9:0xf5c3bd1a0b4e716!4m14!4m13!1m5!1m1!1s0x476d0773920074f1:0xdde6048183443c4!2m2!1d16.383772!2d48.20482!1m5!1m1!1s0x476d077a4eb0ee85:0xcd830136e50f904a!2m2!1d16.380861!2d48.196667!3e2?entry=ttu"
+          "title": "UDS and Figma updates",
+          "description": "Latest updates on UDS and Figma integration",
+          "icon": "design",
+          "startTime": "2024-06-28T09:30:00+0200",
+          "endTime": "2024-06-28T10:00:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Peter Bartos",
+              "description": "UX & UI Designer",
+              "icon": "man"
+            }
+          ]
         },
         {
-            "title": "Join us in WhatsApp",
-            "description": "Open this link to join the WhatsApp Group",
-            "icon": "chat-group",
-            "link": "https://chat.whatsapp.com/GEMXhF30nxl4eI1z1MkKBA"
+          "title": "iOS & Android: Alignments - Analytics & Error Handling",
+          "description": "Discussing strategies for analytics and error handling in apps",
+          "icon": "settings",
+          "startTime": "2024-06-28T10:00:00+0200",
+          "endTime": "2024-06-28T11:00:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Nina Musil",
+              "description": "Android developer",
+              "icon": "woman"
+            },
+            {
+              "name": "Milos Macura",
+              "description": "iOS developer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Split up break",
+          "description": "A short interval before the workshops",
+          "icon": "coffee",
+          "startTime": "2024-06-28T11:00:00+0200",
+          "endTime": "2024-06-28T11:15:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "Android - SDK problems",
+          "description": "Addressing common issues with Android SDK",
+          "icon": "robot",
+          "startTime": "2024-06-28T11:15:00+0200",
+          "endTime": "2024-06-28T12:30:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Fadi Selim",
+              "description": "Android developer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "iOS - Localisation, navigation",
+          "description": "Best practices for iOS app localisation and navigation",
+          "icon": "apple-inc",
+          "startTime": "2024-06-28T11:15:00+0200",
+          "endTime": "2024-06-28T12:30:00+0200",
+          "isBreak": false,
+          "speakers": [
+            {
+              "name": "Milos Macura",
+              "description": "iOS developer",
+              "icon": "man"
+            }
+          ]
+        },
+        {
+          "title": "Lunch break",
+          "description": "Time to enjoy a meal and network",
+          "icon": "restaurant-2",
+          "startTime": "2024-06-28T12:30:00+0200",
+          "endTime": "2024-06-28T13:30:00+0200",
+          "isBreak": true,
+          "speakers": []
+        },
+        {
+          "title": "Workshop",
+          "description": "Interactive workshop session",
+          "icon": "repair-1",
+          "startTime": "2024-06-28T13:30:00+0200",
+          "endTime": "2024-06-28T15:00:00+0200",
+          "isBreak": false,
+          "speakers": []
+        },
+        {
+          "title": "Closing, celebration, pictures, winner of the photo contest",
+          "description": "Closing ceremony and celebration of achievements",
+          "icon": "rating",
+          "startTime": "2024-06-28T15:00:00+0200",
+          "endTime": "2024-06-28T15:30:00+0200",
+          "isBreak": false,
+          "speakers": []
         }
-    ]
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Dinner meeting point - 18:30 @RBI!",
+      "description": "Important: we will have surprise transportation to the restaurant at 18:30. Please come to the RBI Stadtpark main entrance by that time, and we will pick you up. DON'T MISS IT!",
+      "icon": "terminal-on-map"
+    },
+    {
+      "title": "Dinner",
+      "description": "At Salmbräu, Rennweg 8",
+      "icon": "restaurant",
+      "link": "https://salmbraeu.com/en/welcome-to-salm-braeu-br-span-class-smaller-brewery-destillery-and-restaurantspan/"
+    },
+    {
+      "title": "Dinner - maps link",
+      "description": "Where is the dinner",
+      "icon": "route-1",
+      "link": "https://maps.app.goo.gl/ikjMVnxzgbkG4QRG6"
+    },
+    {
+      "title": "Join us in WhatsApp",
+      "description": "Open this link to join the WhatsApp Group",
+      "icon": "chat-group",
+      "link": "https://chat.whatsapp.com/GEMXhF30nxl4eI1z1MkKBA"
+    }
+  ]
 }
