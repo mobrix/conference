@@ -399,7 +399,8 @@
     {
       "title": "Dinner meeting point - 18:30 @RBI!",
       "description": "Important: we will have surprise transportation to the restaurant at 18:30. Please come to the RBI Stadtpark main entrance by that time, and we will pick you up. DON'T MISS IT!",
-      "icon": "terminal-on-map"
+      "icon": "terminal-on-map",
+      "link": "https://maps.app.goo.gl/1nRGzn2qshFhCUR77"
     },
     {
       "title": "Dinner",
